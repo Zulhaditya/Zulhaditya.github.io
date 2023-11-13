@@ -72,13 +72,13 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Drive',
-			icon: 'drive',
+			icon: 'hard-drive',
 			link: 'https://drive.google.com/drive/home',
 		},
 		{
 			id: '5',
 			name: 'Fiverr',
-			icon: 'fiverr',
+			icon: 'briefcase',
 			link: 'https://www.fiverr.com/users/zulhaditya/seller_dashboard',
 		},
 		{
@@ -169,11 +169,11 @@ const CONFIG = {
 					link: 'https://www.instagram.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'LinkedIn',
+					link: 'https://www.linkedin.com/in/zulhaditya',
 				},
         {
-					name: 'X',
+					name: 'Twitter',
 					link: 'https://twitter.com/home',
 				},
 			],
